@@ -9,6 +9,6 @@ class MainActivity : AppCompatActivity() {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_main)
 
-        Toast.makeText(this@MainActivity,"This is my master branch",Toast.LENGTH_LONG).show()
+        Toast.makeText(this@MainActivity,"This is my practice branch",Toast.LENGTH_LONG).show()
     }
 }

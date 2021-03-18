@@ -10,5 +10,6 @@ class MainActivity : AppCompatActivity() {
         setContentView(R.layout.activity_main)
 
         Toast.makeText(this@MainActivity,"This is my master branch",Toast.LENGTH_LONG).show()
+        Toast.makeText(this@MainActivity,"This is my latest meesage",Toast.LENGTH_LONG).show()
     }
 }
